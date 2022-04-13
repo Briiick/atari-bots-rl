@@ -1,0 +1,5 @@
+opencv
+numpy==1.14.0
+gym[atari]
+tensorflow==1.5.0
+tensorpack
